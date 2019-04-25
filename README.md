@@ -18,6 +18,8 @@ Our project was originated from Aeroplane Chess, a Chinese cross-and-circle boar
 
 **Contribution**:
 
-Elina
+Elina Ding
+
 Yang Li
+
 Taixing Shi
